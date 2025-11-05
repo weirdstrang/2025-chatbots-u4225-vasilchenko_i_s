@@ -37,6 +37,8 @@ Date of finished: 7.11.2025
 # Сбор фидбека
 ## Количество пользователей
 ## Скриншоты отзывов
+<img width="423" height="124" alt="image" src="https://github.com/user-attachments/assets/3513b02e-24c9-4ee1-a86a-ab256dad8e01" />
+
 ## Статистика использования
 # Анализ фидбека
 ## Главные проблемы
