@@ -26,6 +26,11 @@ from telegram.ext import (
     filters,
 )
 
+# это удалить
+import os
+print("🚀 МОЙ URL:", os.environ.get('RAILWAY_PUBLIC_DOMAIN', 'НЕ НАЙДЕН'))
+# выше удалить
+
 # Настройка логирования
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
