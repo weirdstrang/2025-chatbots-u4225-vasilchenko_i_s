@@ -16,15 +16,17 @@ Date of finished: 7.11.2025
 
 # Процесс деплоя
 ## Пошаговая инструкция
+
 ### Регистрация на Railways через GitHub
 <img width="1538" height="304" alt="image" src="https://github.com/user-attachments/assets/be2aa45b-142e-42b8-b0b2-4935dc1a5f54" />
 ### Создание нового проекта
-
+<img width="1111" height="341" alt="image" src="https://github.com/user-attachments/assets/e8b6370c-a7d9-43bf-91ba-aa0c7386e9ff" />
 
 ## С какими проблемами столкнулись
 1. .gitignore пропустил сначала .env с токеном, потом .env с набором символов.
 ## Как решили
-Не решена.
+1. Не решена.
+   
 # Сбор фидбека
 ## Количество пользователей
 ## Скриншоты отзывов
