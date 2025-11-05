@@ -38,6 +38,8 @@ Date of finished: 7.11.2025
 ## Количество пользователей
 ## Скриншоты отзывов
 <img width="423" height="124" alt="image" src="https://github.com/user-attachments/assets/3513b02e-24c9-4ee1-a86a-ab256dad8e01" />
+<img width="552" height="407" alt="image" src="https://github.com/user-attachments/assets/e3813e59-2cb0-48d9-9927-7d4a25d69e9e" />
+
 
 ## Статистика использования
 # Анализ фидбека
