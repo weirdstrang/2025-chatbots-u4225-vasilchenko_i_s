@@ -61,6 +61,7 @@ Date of finished: 7.11.2025
 <img width="400" height="235" alt="image" src="https://github.com/user-attachments/assets/fb6c68ad-31ae-4105-993a-79bbf62e322d" />
 
 ## Видео-демо
+[Ссылка на Гугл-диск](https://drive.google.com/file/d/1cLeN2iWdZO_akJfAMg_TfBkexefewwRy/view?usp=sharing)
 
 # Трудности и решения
 
