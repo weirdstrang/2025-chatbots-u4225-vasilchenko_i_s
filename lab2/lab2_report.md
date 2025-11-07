@@ -4,9 +4,9 @@ Course: [Vibe Coding: AI-боты для бизнеса](https://github.com/itmo
 Year: 2025/2026  
 Group: U4225  
 Author: Vasilchenko Irina Sergeevna  
-Lab: Lab1  
-Date of create: 21.10.2025  
-Date of finished: 03.10.2025  
+Lab: Lab2  
+Date of create: 4.11.2025  
+Date of finished: 7.11.2025  
 
 ***
 
