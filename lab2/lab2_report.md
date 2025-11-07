@@ -17,7 +17,7 @@ Date of finished: 03.10.2025
 ## Почему именно этот
 Звучит сложнее, чем простая база данных, и полезнее (лично для меня) чем работа с файлами.
 # Структура данных
-
+Публичный API
 
 # Промпт для LLM
 ## Исходный промпт
@@ -55,7 +55,8 @@ Date of finished: 03.10.2025
 
 ## Скриншоты работы
 ### Шутка при постановке задачи
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/db5e561b-1ff8-4f0f-a977-a86f0a117007" />
+<img width="639" height="676" alt="image" src="https://github.com/user-attachments/assets/f11b900d-2143-4ebf-a810-a930d15b72d6" />
+
 ### Шутка как отдельная функция
 <img width="400" height="235" alt="image" src="https://github.com/user-attachments/assets/fb6c68ad-31ae-4105-993a-79bbf62e322d" />
 
@@ -70,3 +71,6 @@ Date of finished: 03.10.2025
 # Выводы
 ## Что получилось хорошо
 Coursor сразу же реализовал простую картинку из головы
+
+## Что можно улучшить
+Брать API c какого-либо сервиса, а не искать в поисковике
